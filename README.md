@@ -1,4 +1,4 @@
-# TaskSync (not ready)
+# TaskSync
 
 Yksinkertainen tehtävienhallintasovellus, jossa on:
 - Web-käyttöliittymä (React)
