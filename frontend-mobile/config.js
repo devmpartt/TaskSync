@@ -13,5 +13,5 @@ export function getBaseURL() {
   }
   // Expo Go fyysisessä puhelimessa -> käytä Macin LAN-IP:tä
   // Vaihda tämä omaan IP:iin: ipconfig getifaddr en0
-  return "http://192.168.0.100:3001";
+  return "http://192.168.1.190:3001";
 }
